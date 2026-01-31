@@ -1,0 +1,9 @@
+{
+    "minimumVersion": "1.1.3",
+    "latestVersion": "1.1.3",
+    "forceUpdate": false,
+    "updateMessage": {
+        "it": "È disponibile un aggiornamento importante. Aggiorna ora per continuare a usare l'app.",
+        "en": "An important update is available. Update now to continue using the app."
+    }
+}
